@@ -11,9 +11,9 @@
   button {
     width: 158px;
     height: 55px;
-    border: 1px solid black;
-    border-radius: 20px;
-    background-color: white;
+    border: 3px solid rgb(51, 89, 194);
+    border-radius: 10px;
+    background-color: rgb(154, 155, 224);
     color: black;
     font-size: small;
     text-align: center;
